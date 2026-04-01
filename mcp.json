@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "swaggepetclimcp": {
+      "type": "sse",
+      "url": "https://swaggepetclimcp.vercel.app/sse"
+    }
+  }
+}
